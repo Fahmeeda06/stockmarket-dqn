@@ -22,4 +22,6 @@ This project uses Deep Reinforcement Learning (DQN) to predict stock market tren
 
 ## How to Run
 streamlit run app.py
+![Dashboard](dashboard.png)
+![Graph](graph.png)
 
