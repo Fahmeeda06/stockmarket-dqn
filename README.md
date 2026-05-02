@@ -1,8 +1,24 @@
 # Stock Market Prediction using DQN
 
-This project predicts stock trends using Deep Reinforcement Learning.
+## Overview
+This project uses Deep Reinforcement Learning (DQN) to predict stock market trends.
 
-Includes:
-- Model training
-- Prediction
-- Dashboard
+## Features
+- Market Trend Prediction
+- Buy/Sell Signals
+- Stability Score
+- Next Day Prediction
+- Interactive Dashboard
+
+## Technologies Used
+- Python
+- Stable-Baselines3
+- Pandas, NumPy
+- Streamlit
+
+## Files
+- stock.ipynb → Model implementation
+- app.py → Dashboard
+
+## How to Run
+streamlit run app.py
